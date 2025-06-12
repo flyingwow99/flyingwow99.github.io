@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","player","enemy"],collisionMatrix:[[false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/HelloWorld/helloworld.fire",orientation:"portrait",jsList:[]};
